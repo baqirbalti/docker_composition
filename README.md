@@ -2,7 +2,7 @@
 
 A simple full-stack application demonstrating Docker and Docker Compose with a Node.js backend and vanilla JavaScript frontend.
 
-screenshots/Screenshot 2025-10-18 114657.png
+
 
 ## 📋 Project Overview
 
