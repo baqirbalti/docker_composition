@@ -36,6 +36,14 @@ This project consists of:
 - ✅ Automatic restart policies
 - ✅ Bridge network for service communication
 
+## 📸 Screenshots
+
+### Docker Compose Running
+
+![Docker Compose Running](screenshots/Screenshot%202025-10-18%20114657.png)
+
+*Docker Compose successfully building and running both backend and frontend containers*
+
 ## 📁 Project Structure
 
 ```
